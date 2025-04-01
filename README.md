@@ -36,9 +36,4 @@ This project demonstrates the use of CSS3 to create a responsive multipage websi
 - Background Styling:  
   - Applied custom background images on the contact and services pages.  
 
-## Screenshots  
-(Include images showing desktop and mobile views of each page.)  
-
-## Live Demo (Optional)  
-If deployed on GitHub Pages, provide the link here:  
 [GitHub Pages Link](https://github.com/Chibaza/lab3-multipage)  
